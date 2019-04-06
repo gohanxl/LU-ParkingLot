@@ -49,7 +49,7 @@ public class ParkingLotTest {
 
 		System.out.println("\nTotal Factura: " + estacionamiento1.facturarEstadia(10, "456DEF"));
 
-		ServicioExterno.EnviarMail("asd", "aaaa", "clara");
+		ServicioExterno.EnviarMail("asd", "aaaa", "lucas");
 
 	}
 
